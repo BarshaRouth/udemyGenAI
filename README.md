@@ -2,6 +2,49 @@
 
 A repository containing hands-on Generative AI projects built using Python, Google Gemini SDKs, and Streamlit.
 
+
+
+## 🔄 Updating the GitHub Repository
+
+Whenever you create new files or modify existing files, follow these steps to push your changes to GitHub.
+
+### 1. Check the Changes
+
+```bash
+git status
+```
+
+### 2. Stage All Changes
+
+```bash
+git add .
+```
+
+### 3. Commit the Changes
+
+```bash
+git commit -m "Update project files"
+```
+
+### 4. Push Changes to GitHub
+
+```bash
+git push
+```
+
+### Quick Command
+
+You can also run all the commands together:
+
+```bash
+git add .
+git commit -m "Update project files"
+git push
+```
+
+**Note:** Run these commands from your project directory. Make sure your `.gitignore` excludes sensitive files such as `.env` and your virtual environment folder (`venv/`) before staging changes.
+
+
 ## 🚀 Quick Setup & Installation
 
 Follow these steps to set up the project environment from scratch.
