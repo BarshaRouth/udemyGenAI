@@ -1,3 +1,6 @@
+# Instead of manually searching through all PDFs, our application finds the relevant information and asks Gemini to generate an answer based on that information.
+
+
 import os
 import io
 import streamlit as st
