@@ -2,5 +2,11 @@ streamlit
 google-generativeai
 python-dotenv
 langchain
+langchain-classic
+langchain-core
 PyPDF2
 chromadb
+faiss-cpu
+langchain_google_genai
+langchain-text-splitters
+langchain-community
